@@ -27,4 +27,4 @@ El respeto a tu privacidad está totalmente garantizado.
 <br><br>
 
 <h3>Contacto:</h3>
-Si tiene alguna pregunta sobre esta Política o para informar de cualquier violación de la Política, envíe un correo electrónico a: **itcainvestigacion@gmail.com**
+Si tiene alguna pregunta sobre esta Política o para informar de cualquier violación de la Política, envíe un correo electrónico a: <b>itcainvestigacion@gmail.com</b>
