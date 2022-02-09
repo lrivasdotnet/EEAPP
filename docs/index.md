@@ -4,11 +4,11 @@ Estructuras Eléctricas APP es una aplicación móvil que permite realizar cálc
 Su objetivo es para fines personales y educativos, prohibida su reproducción total o parcial para fines comerciales.<br>
 ITCA no es responsable por los datos introducido por los usuarios ni la información generada a partir de la aplicación..<br><br>
 
-###Proyecto de Investigación Desarrollado por:<br>
+<h3>Proyecto de Investigación Desarrollado por:</h3><br>
 <li>Luis H. Rivas R.</li>
 <li>Fermin Osorio Gómez.</li>
 
-#POLÍTICA DE PRIVACIDAD
+<h1>POLÍTICA DE PRIVACIDAD</h1>
 
 Última modificación: 09 de Febrero de 2022
 
